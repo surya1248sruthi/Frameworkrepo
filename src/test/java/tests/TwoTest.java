@@ -13,6 +13,7 @@ public class TwoTest extends Base{
 	@Test
 	public void twoTest() throws IOException, InterruptedException {
 		System.out.println("changes made by vishnu");
+		System.out.println("changes made by sruthi");
 		
 		System.out.println("Two Test");
 		driver=initializeDriver();
